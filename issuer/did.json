@@ -6,13 +6,13 @@
   "id": "did:web:bathiya-94.github.io:erl-demo-config:issuer",
   "verificationMethod": [
     {
-      "id": "did:web:bathiya-94.github.io:erl-demo-config:issuer#kiPoAJSKvTI0Wg87qFSny2pl4TTYblqExC9EIOlmv2I",
+      "id": "did:web:bathiya-94.github.io:erl-demo-config:issuer#ENki-2wvjzO6SlIbvv9JqIpFO77PGxoh49KHLKZYsPg",
       "type": "Ed25519VerificationKey2020",
       "controller": "did:web:bathiya-94.github.io:erl-demo-config:issuer",
-      "publicKeyMultibase": "z6Mkh1MGqtuDqRi8S5qqM6LsU9HHuE9QHnQ8SbyC3xi3GqCH"
+      "publicKeyMultibase": "z6MksiyCFcP8aUwXswH8r9Bn88yXTromfkTe3PBMj38WdpS9"
     }
   ],
   "assertionMethod": [
-    "did:web:bathiya-94.github.io:erl-demo-config:issuer#kiPoAJSKvTI0Wg87qFSny2pl4TTYblqExC9EIOlmv2I"
+    "did:web:bathiya-94.github.io:erl-demo-config:issuer#ENki-2wvjzO6SlIbvv9JqIpFO77PGxoh49KHLKZYsPg"
   ]
 }
