@@ -10,9 +10,16 @@
       "type": "Ed25519VerificationKey2020",
       "controller": "did:web:bathiya-94.github.io:erl-demo-config:issuer",
       "publicKeyMultibase": "z6Mkshu3F53BAUukJ7UGL8PsmfqVzjaPmeTv25VrqMsgmFqg"
+    },
+    {
+      "id": "did:web:bathiya-94.github.io:erl-demo-config:issuer#8_gCwWjJ8wsA9nQJjlHSZwMI3w0sQ_j3h_CytHNBnmY",
+      "type": "Ed25519VerificationKey2020",
+      "controller": "did:web:bathiya-94.github.io:erl-demo-config:issuer",
+      "publicKeyMultibase": "z6Mkkb2oiZ3bu2iVbgpm4t2Xruyy4LkZwKAqpPrSYi7RZYTT"
     }
   ],
   "assertionMethod": [
-    "did:web:bathiya-94.github.io:erl-demo-config:issuer#Q-cz-u8rY3lkCtASWMXrJqDII-4fsUD9qp40FlIv8Zc"
+    "did:web:bathiya-94.github.io:erl-demo-config:issuer#Q-cz-u8rY3lkCtASWMXrJqDII-4fsUD9qp40FlIv8Zc",
+    "did:web:bathiya-94.github.io:erl-demo-config:issuer#8_gCwWjJ8wsA9nQJjlHSZwMI3w0sQ_j3h_CytHNBnmY"
   ]
 }
